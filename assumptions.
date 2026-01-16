@@ -1,0 +1,6 @@
+# Project Assumptions
+
+- Data used in this project is simulated for learning and demonstration purposes
+- Financial periods are monthly
+- KPIs are standardized across departments
+- Reporting structure reflects typical banking and financial operations environments

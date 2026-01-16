@@ -1,0 +1,17 @@
+Financial-Business-Operations-Analysis/
+│
+├── README.md
+│
+├── Data/
+│   └── sample_financial_data.xlsx
+│
+├── Analysis/
+│   └── analysis_steps.md
+│
+├── Documentation/
+│   ├── business_requirements.md
+│   ├── process_flow.md
+│   └── assumptions.md
+│
+└── Insights/
+    └── management_summary.md
